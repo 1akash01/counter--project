@@ -51,6 +51,8 @@ function checkEven() {
 
 
 // Check Odd
+
+//test by me
 function checkOdd() {
 
     if (count % 2 !== 0) {
